@@ -262,5 +262,4 @@ MIT License. For authorized security testing only.
 ---
 
 *Built with ❤️ for security professionals on Kali Linux*
-#   v u l n m i n d - a i - V 1 . 2 . 0  
- 
+#
